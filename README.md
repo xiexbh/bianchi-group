@@ -1,4 +1,4 @@
-# Supplementary Materials for "Presentations of Two-Cusped Bianchi Groups via Horoball Unions"
+# Supplementary Materials for "Presentations of Two-Cusped Bianchi Groups"
 
 This repository contains Magma code and data supporting the presentations obtained for the two-cusped Bianchi groups $\Gamma_5$ and $\Gamma_6$. The Magma scripts verify that our presentations are isomorphic to Swan's classical presentations [Swan, 1971].
 
